@@ -1,0 +1,11 @@
+{
+  "bot_token": "PUT_BOT_TOKEN_HERE",
+  "owner_chat_id": "PUT_OWNER_CHAT_ID_HERE",
+  "ai_enabled": false,
+  "gemini_api_key": "PUT_GEMINI_KEY_HERE_OR_LEAVE_EMPTY",
+  "wa_phone": "PUT_YOUR_WHATSAPP_NUMBER_INTERNATIONAL_FORMAT_e.g._+2010xxxxxxxx",
+  "wa_apikey": "PUT_CALLMEBOT_APIKEY_HERE",
+  "mail_to": "PUT_YOUR_GMAIL_HERE",
+  "mail_appkey": "PUT_GMAIL_APP_PASSWORD_16_CHARS_HERE",
+  "store_name": "متجر نيفورا"
+}

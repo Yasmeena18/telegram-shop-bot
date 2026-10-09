@@ -1,0 +1,11 @@
+config.json
+*.log
+*.db
+media/
+state.json
+__pycache__/
+*.pyc
+out.tmp
+err.tmp
+test_shop.db
+PRICING_DRAFT.md
